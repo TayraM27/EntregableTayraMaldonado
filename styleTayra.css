@@ -10,3 +10,7 @@ img{
     margin-left: auto;
     margin-right: auto;
 }
+li{
+    letter-spacing: 1px;
+    list-style:lower-alpha;
+}
